@@ -20,6 +20,15 @@
         }
       },
       {
+        "package": "BSON",
+        "repositoryURL": "https://github.com/OpenKitten/BSON.git",
+        "state": {
+          "branch": null,
+          "revision": "d5969405013b1af010506b43f89ea6a3d0927377",
+          "version": "7.0.23"
+        }
+      },
+      {
         "package": "console-kit",
         "repositoryURL": "https://github.com/vapor/console-kit.git",
         "state": {
@@ -29,12 +38,66 @@
         }
       },
       {
+        "package": "fluent",
+        "repositoryURL": "https://github.com/vapor/fluent.git",
+        "state": {
+          "branch": null,
+          "revision": "e681c93df3201a2d8ceef15e8a9a0634578df233",
+          "version": "4.0.0"
+        }
+      },
+      {
+        "package": "fluent-kit",
+        "repositoryURL": "https://github.com/vapor/fluent-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "8a20f1dd111fa715d60e79fcfc38d8229c88392e",
+          "version": "1.6.0"
+        }
+      },
+      {
+        "package": "fluent-mongo-driver",
+        "repositoryURL": "https://github.com/vapor/fluent-mongo-driver.git",
+        "state": {
+          "branch": null,
+          "revision": "4f3c1c3d878f58b15d58887e8cbd9c017104024d",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "MongoKitten",
+        "repositoryURL": "https://github.com/OpenKitten/MongoKitten.git",
+        "state": {
+          "branch": null,
+          "revision": "46f11d09f11d57d05b969c1f204d954d73696b20",
+          "version": "6.6.1"
+        }
+      },
+      {
+        "package": "DNSClient",
+        "repositoryURL": "https://github.com/OpenKitten/NioDNS.git",
+        "state": {
+          "branch": null,
+          "revision": "7517b774d48833f04869fcde668d2f338fadc464",
+          "version": "2.0.6"
+        }
+      },
+      {
         "package": "routing-kit",
         "repositoryURL": "https://github.com/vapor/routing-kit.git",
         "state": {
           "branch": null,
           "revision": "4cf052b78aebaf1b23f2264ce04d57b4b6eb5254",
           "version": "4.2.0"
+        }
+      },
+      {
+        "package": "sql-kit",
+        "repositoryURL": "https://github.com/vapor/sql-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "ea9928b7f4a801b175a00b982034d9c54ecb6167",
+          "version": "3.7.0"
         }
       },
       {
@@ -116,6 +179,15 @@
           "branch": null,
           "revision": "4778e2ab335d4055ee308b0aa71fab32db0624a4",
           "version": "4.25.0"
+        }
+      },
+      {
+        "package": "WeatherProvider",
+        "repositoryURL": "https://github.com/ualch9/WeatherProvider.git",
+        "state": {
+          "branch": null,
+          "revision": "8a56ed06e2e81012d33fe9b4248153df434ee96f",
+          "version": "0.1.0"
         }
       },
       {
