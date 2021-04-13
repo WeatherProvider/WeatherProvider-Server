@@ -4,7 +4,7 @@
 ![Swift 5.3](https://img.shields.io/badge/swift-5.3-orange)
 ![MIT License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-| Under Active Development, non-functioning at the moment |
+| ARCHIVED |
 |----|
 | Please see the parent project for more details: |
 | https://github.com/WeatherProvider/WeatherProvider |
